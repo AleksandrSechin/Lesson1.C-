@@ -1,0 +1,15 @@
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\bin\Debug\net6.0\C#.exe
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\bin\Debug\net6.0\C#.deps.json
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\bin\Debug\net6.0\C#.dll
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\bin\Debug\net6.0\C#.pdb
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\C#.dll
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\refint\C#.dll
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\C#.pdb
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
+D:\Запаско\Обучение в ИТ\ПО\Projects\C#\obj\Debug\net6.0\ref\C#.dll
