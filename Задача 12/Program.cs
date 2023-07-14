@@ -17,4 +17,6 @@ int ostatok = number1 % number2;
 if(ostatok == 0) {
     Console.WriteLine("Первое число кратно второму");
 }
-else Console.WriteLine($"Первое число не кратно второму, остаток {ostatok}");
+else {
+    Console.WriteLine($"Первое число не кратно второму, остаток {ostatok}");
+}
