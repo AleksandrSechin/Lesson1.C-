@@ -10,7 +10,7 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 
 if((number1 * number1 == number2) || (number2 * number2 == number1)) 
 {
-    Console.WriteLine("Число является квадратом другого");
+    Console.WriteLine("Одно число является квадратом другого");
 }
 else {
     Console.WriteLine("Число не является квадратом другого");
