@@ -15,6 +15,6 @@ int y2 = Convert.ToInt32(Console.ReadLine());
 
 double result = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2)); // складываем возведенные в степень значения
 
-Console.WriteLine(result); 
-// или Console.WriteLine($"{Math.Round(result, 1)}");
+// Console.WriteLine(result); 
+Console.WriteLine($"{Math.Round(result, 1)}");
 // чтобы округлить к ближайшему целому числу
