@@ -5,22 +5,19 @@
 // 123 [5, 18, 123, 6, 2] -> 1     [1, 2, 3, 6, 2] -> 0 
 
 
-int[] numbers = new int [10];
+int[] numbers = new int[5];
 int count = 0;
 
 for (int i = 0; i < numbers.Length; i++)
 {
-    numbers[i] = new Random().Next(0, 150);
+    numbers[i] = new Random().Next(0, 10);
     Console.Write(numbers[i] + " ");
 }
 Console.WriteLine();
 
-for (int j = 0; j < numbers.Length; j++)
+for (int j = 0; j < numbers.Length / 2; j++)
 {
-    if (numbers[j] > 9 && numbers[j] < 100)
-    {
-        count += 1;
-    }
-
+    
 }
 Console.WriteLine($"Количество элементов {count}");
+

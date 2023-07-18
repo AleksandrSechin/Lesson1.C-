@@ -5,10 +5,10 @@
 
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-int result = 0;
+int count = 0;
 
 while (number > 0){
     number = number / 10;
-    result = result + 1;
+    count = count + 1;
 }
 Console.WriteLine(result);
